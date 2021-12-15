@@ -2,9 +2,6 @@
 I am <b> Ramani Vaidya </b> pursuing <b> Computer Engineering</b> from Sinhgad Institute of Technology and Science,Pune.
 I am learning web development and have knowledge of HTML and CSS.
  
-<i style="font-size:24px" class="fa" href="https://www.linkedin.com/in/ramani-vaidya-b130a8222/">&#xf08c;</i>
- 
-<!--
 **RamaniVaidya/RamaniVaidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
