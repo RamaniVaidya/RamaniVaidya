@@ -9,6 +9,14 @@ I am learning web development and have knowledge of HTML and CSS.
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
+
+<h1 align="center">Let's Get Connected</h1>
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/ramani-vaidya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ramakv01@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
  
  <h1 align="center">Github Stats</h1>
  <div align="center" >
@@ -16,6 +24,7 @@ I am learning web development and have knowledge of HTML and CSS.
 </div> 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamaniVaidya&)"><img src="https://activity-graph.herokuapp.com/graph?username=RamaniVaidya&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ 
  
  
  <!---
