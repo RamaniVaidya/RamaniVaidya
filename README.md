@@ -6,5 +6,4 @@ $ linkedin: <a href="https://www.linkedin.com/in/ramani-vaidya/" target="_blank"
 $ email: <a href="mailto:ramanivaidya.sits.comp@gmail.com">Email Me</a>
 
 $ # rm -rf /  # Don’t worry, I won’t break anything... unless you ask. 😜
-$ # Feel free to reach out if you need help debugging or just want to chat. 💬
 </pre>
